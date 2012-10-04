@@ -39,7 +39,7 @@ Or create a builder and apply properties on one line:
 Developed By
 ============
 
-* Henrik Sandström @ [wrapp](http://wrapp.com)
+* Henrik Sandström @ [Wrapp](http://www.wrapp.com)
 
 License
 =======

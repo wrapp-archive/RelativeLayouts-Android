@@ -1,7 +1,6 @@
 *.apk
 *.iws
 gen/*
-bin/*
 out/*
 vendor/*/gen/*
 vendor/*/bin/*
