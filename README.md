@@ -1,7 +1,7 @@
 RelativeLayouts
 ===============
 
-Relative layouts is a simple library that makes it easier to create relative layouts in Android.
+RelativeLayouts is a simple library that makes it easier to create relative layouts programmatically in Android.
 
 Usage
 =====
