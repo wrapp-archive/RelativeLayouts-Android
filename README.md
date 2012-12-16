@@ -13,7 +13,7 @@ Create a builder for a certain view and apply the wanted properties.
     ImageView actionViewBubble = (ImageView) findViewById(R.id.TimelineActionBubble);
     RelativeLayouts.Builder builder;
 
-    if (rightAlign) {
+    if (!rightAlign) {
       builder = new Builder(actionViewBubble, true, true);
       builder.alignParentBottom().alignParentLeft().apply();
 
